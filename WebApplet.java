@@ -1,5 +1,5 @@
 /*
-<applet code=applet.java width=100 height=100></applet>
+<applet code=applet.java width=600 height=800></applet>
  */ 
 
 package GenPack;
