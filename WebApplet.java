@@ -1,3 +1,7 @@
+/*
+<applet code=applet.java width=100 height=100></applet>
+ */ 
+
 package GenPack;
 import javax.swing.JApplet;
 
