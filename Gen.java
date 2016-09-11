@@ -91,6 +91,10 @@ public class Gen extends JPanel implements ActionListener{
 		
 		//return an alphanumeric value
 		s = alphanumeric.substring(randomNumber, randomNumber + 1);
+		/* .substring(firstInt, secondInt) returns a string starting at firstInt and ending at
+		 * secondInt - 1. So if the charater you are looking for is in the 5th place, then 
+		 * .substring(5, 6) returns the string from 5 to 5. Basically the 5th character.
+		 */
 		
 		return s; //end function
 	}
